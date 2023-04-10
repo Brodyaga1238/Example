@@ -1,0 +1,22 @@
+C:\Users\nurla\RiderProjects\Task1\Theoretical task\bin\Debug\net6.0\Theoretical task.exe
+C:\Users\nurla\RiderProjects\Task1\Theoretical task\bin\Debug\net6.0\Theoretical task.deps.json
+C:\Users\nurla\RiderProjects\Task1\Theoretical task\bin\Debug\net6.0\Theoretical task.runtimeconfig.json
+C:\Users\nurla\RiderProjects\Task1\Theoretical task\bin\Debug\net6.0\Theoretical task.dll
+C:\Users\nurla\RiderProjects\Task1\Theoretical task\bin\Debug\net6.0\ref\Theoretical task.dll
+C:\Users\nurla\RiderProjects\Task1\Theoretical task\bin\Debug\net6.0\Theoretical task.pdb
+C:\Users\nurla\RiderProjects\Task1\Theoretical task\obj\Debug\net6.0\Theoretical task.csproj.AssemblyReference.cache
+C:\Users\nurla\RiderProjects\Task1\Theoretical task\obj\Debug\net6.0\Theoretical task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurla\RiderProjects\Task1\Theoretical task\obj\Debug\net6.0\Theoretical task.AssemblyInfoInputs.cache
+C:\Users\nurla\RiderProjects\Task1\Theoretical task\obj\Debug\net6.0\Theoretical task.AssemblyInfo.cs
+C:\Users\nurla\RiderProjects\Task1\Theoretical task\obj\Debug\net6.0\Theoretical task.csproj.CoreCompileInputs.cache
+C:\Users\nurla\RiderProjects\Task1\Theoretical task\obj\Debug\net6.0\Theoretical task.dll
+C:\Users\nurla\RiderProjects\Task1\Theoretical task\obj\Debug\net6.0\ref\Theoretical task.dll
+C:\Users\nurla\RiderProjects\Task1\Theoretical task\obj\Debug\net6.0\Theoretical task.pdb
+C:\Users\nurla\RiderProjects\Task1\Theoretical task\obj\Debug\net6.0\Theoretical task.genruntimeconfig.cache
+C:\Users\nurla\RiderProjects\Task1\Theoretical task\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\nurla\RiderProjects\Task1\Theoretical task\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nurla\RiderProjects\Task1\Theoretical task\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\nurla\RiderProjects\Task1\Theoretical task\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\nurla\RiderProjects\Task1\Theoretical task\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nurla\RiderProjects\Task1\Theoretical task\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nurla\RiderProjects\Task1\Theoretical task\obj\Debug\net6.0\Theoretical task.csproj.CopyComplete
